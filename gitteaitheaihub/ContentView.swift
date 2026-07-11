@@ -30,7 +30,6 @@ struct ContentView: View {
                                endPoint: .bottomTrailing)
             }
             VStack {
-                Text("Im ezraa")
                 Text("DRAG THE CIRCLE")
                     .bold()
                     .font(.largeTitle)
