@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		3CAFF5572FF8E19200AF58A4 /* gitteaitheaihub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitteaitheaihub.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3CAFF5572FF8E19200AF58A4 /* gitteaitheaihub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = gitteaitheaihub.app; path = "/Users/iaintanSST/Documents/gitteaitheaihub/build/Debug-iphoneos/gitteaitheaihub.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				3CAFF5592FF8E19200AF58A4 /* gitteaitheaihub */,
-				3CAFF5582FF8E19200AF58A4 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		3CAFF5582FF8E19200AF58A4 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				3CAFF5572FF8E19200AF58A4 /* gitteaitheaihub.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = 3CAFF54E2FF8E19200AF58A4;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 3CAFF5582FF8E19200AF58A4 /* Products */;
+			productRefGroup = 3CAFF54E2FF8E19200AF58A4;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
